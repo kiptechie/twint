@@ -1,4 +1,4 @@
-FROM python:3.6-buster
+FROM python:3.12.0a5-buster
 LABEL maintainer="codyzacharias@pm.me"
 
 WORKDIR /root
